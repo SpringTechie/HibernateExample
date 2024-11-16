@@ -17,10 +17,10 @@ public class App
     public static void main( String[] args )
     {
       
-     //  saveObject();
-    //   getObject();
-      //updateObject();
-//       deleteObject() ;
+       saveObject();
+       getObject();
+      updateObject();
+       deleteObject() ;
        
        getAllObject();
     }
